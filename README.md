@@ -1,2 +1,2 @@
 # Mini-Project
-This is my Mini Project based on Photography using HTML &amp; CSS.
+This is my Mini Project based on Photography website using HTML &amp; CSS.
